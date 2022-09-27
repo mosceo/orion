@@ -9,5 +9,5 @@ func MarsVersion() string {
 }
 
 func Version() string {
-	return "1.8"
+	return "1.9"
 }
